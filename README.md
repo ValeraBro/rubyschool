@@ -333,7 +333,7 @@ Puma caught this error: Error loading the 'sqlite3' Active Record adapter. Missi
 
 Урок 43
 
-- делаем ссылки входа, выхода и т. п. с помощью devise
+- делаем ссылки входа, выхода и т.п. с помощью devise
 - сессии и куки
 - чуть-чуть про json
 - добавляем поля username в devise 
